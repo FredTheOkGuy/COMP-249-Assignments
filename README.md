@@ -1,5 +1,5 @@
 # COMP-249-Assignments
-These includes all the assignments done for my COMP 249 (Object Oriented Programming II)
+These includes all the assignments done for my COMP 249 (Object Oriented Programming II) class.
 
 What is included:
   - Assignment 0
